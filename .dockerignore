@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules
+build
+.svelte-kit
+
+# Logs
+*.log
+npm-debug.log*
+
+# Git and config
+.git
+.gitignore
+.vscode
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NOTE: Do not ignore .env so that it's included in Docker builds
+# .env
+# .env.*
